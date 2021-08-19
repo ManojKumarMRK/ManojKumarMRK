@@ -6,5 +6,5 @@ I had worked with Backend web frameworks like Nodejs, Flask and Django. I had wo
 architecture, worked with both SQL and MongoDB. I also have experience in frontend technologies, created mobile responsive static pages and dynamic templates. 
 I had also worked with Reactjs to create SPAs and integrated it with APIs.
 
-I also had worked with datas creating insights from it and used machine learning models to predict the outcomes. I use python for working with datas. Numpy, Pandas, Scikit learn,
+Had worked with datas creating insights from it and used machine learning models to predict the outcomes. I use python for working with datas. Numpy, Pandas, Scikit learn,
 matplotlib are some of my goto libraries.
